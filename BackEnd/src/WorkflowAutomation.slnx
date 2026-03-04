@@ -1,5 +1,0 @@
-<Solution>
-  <Project Path="WorkflowAutomation.Api/WorkflowAutomation.Api.csproj" />
-  <Project Path="WorkflowAutomation.Data/WorkflowAutomation.Data.csproj" />
-  <Project Path="WorkflowAutomation.Tests/WorkflowAutomation.Tests.csproj" />
-</Solution>
