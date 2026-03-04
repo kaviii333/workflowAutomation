@@ -61,6 +61,26 @@ Check versions:
 node -v
 npm -v
 🔧 Installation Guide
+
+Run the Seed Script
+
+Navigate to the root project folder and execute the seed script located at:
+
+Scripts/seed.sql
+▶️ If Using SQL Server (SSMS)
+
+Open SQL Server Management Studio
+
+Connect to your server
+
+Select WorkflowAutomationDB
+
+Open Scripts/seed.sql
+
+Click Execute
+If Using Command Line
+sqlcmd -S localhost -d WorkflowAutomationDB -i Scripts/seed.sql
+
 1️⃣ Clone the Repository
 git clone https://github.com/kaviii333/workflowAutomation.git
 cd workflowAutomation
